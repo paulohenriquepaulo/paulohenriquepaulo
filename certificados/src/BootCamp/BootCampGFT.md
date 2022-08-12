@@ -1,1 +1,1 @@
-![img.png](imagem/img.png)
+![img.png](../imagem/img.png)
