@@ -1,6 +1,6 @@
 ### Olá, Eu sou Paulo Henrique!
 - Bem-vindo ao meu perfil!
-- Estudante  
+- Desenvolvedor JAVA JR  
 
 <div>
   <a href="https://github.com/paulohenriquepaulo">
